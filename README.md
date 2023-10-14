@@ -1,3 +1,3 @@
 # pollutants
 
-pspark kernel
+pyspark kernel
